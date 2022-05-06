@@ -12,4 +12,4 @@
 <h3>Console Specifications</h3>
 <b>CPU</b>: <code>ARM7TDMI @ 16.78 MHz, Sharp LR35902 (8080-derived)</code><br>
 <b>Memory</b>: <code>32 KB internal, 256 KB external, 96 KB VRAM</code><br>
-<b>Screen</b>: <code>TFT LCD 240×160 pixels, 40.8×61.2 mm</code>
+<b>Screen</b>: <code>TFT LCD 240×160 pixels 40.8×61.2 mm</code>

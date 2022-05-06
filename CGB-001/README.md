@@ -12,4 +12,4 @@
 <h3>Console Specifications</h3>
 <b>CPU</b>: <code>Sharp LR35902 core</code><br>
 <b>Memory</b>: <code>32 KB RAM; 16 KB VRAM</code><br>
-<b>Screen</b>: <code>TFT LCD 160 x 144 pixels, 44x40 mm</code>
+<b>Screen</b>: <code>TFT LCD 160x144 pixels, 44x40 mm</code>

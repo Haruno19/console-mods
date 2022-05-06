@@ -8,6 +8,7 @@
 <b>Shell</b>: <code>eXtremeRate upgrade shell</code><br>
 <b>Buttons</b>: <code>eXtremeRate upgrade shell</code><br>
 <b>Lens</b>: <code>eXtremeRate upgrade shell</code><br>
+<b>Label</b>: <code>OEM AGB-001 label</code><br>
 <h3>Console Specifications</h3>
 <b>CPU</b>: <code>ARM7TDMI @ 16.78 MHz, Sharp LR35902 (8080-derived)</code><br>
 <b>Memory</b>: <code>32 KB internal, 256 KB external, 96 KB VRAM</code><br>

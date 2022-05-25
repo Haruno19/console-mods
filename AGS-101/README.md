@@ -5,10 +5,10 @@
 <h3>Mod Specifications</h3>
 <b>Mod</b>: <code>full reshell</code><br>
 <b>Theme</b>: <code>The Great Wave off Kanagawa</code><br>
-<b>Shell</b>: <code>eXtremeRate upgrade shell (The Great Wave off Kanagawa)</code><br>
-<b>Buttons</b>: <code>eXtremeRate upgrade shell (The Great Wave off Kanagawa)</code><br>
+<b>Shell</b>: <code>eXtremeRate upgrade shell (The Great Wave)</code><br>
+<b>Buttons</b>: <code>eXtremeRate upgrade shell (The Great Wave)</code><br>
 <b>Lens</b>: <code>OEM AGS-101 lens</code><br>
-<b>Label</b>: <code>eXtremeRate custom label (The Great Wave off Kanagawa)</code><br>
+<b>Label</b>: <code>eXtremeRate custom label (The Great Wave)</code><br>
 <h3>Console Specifications</h3>
 <b>CPU</b>: <code>ARM7TDMI @ 16.78 MHz, Z80 coprocessor @ 8 MHz </code><br>
 <b>Memory</b>: <code>32 KB internal, 256 KB external, 96 KB VRAM</code><br>
